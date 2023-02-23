@@ -1,0 +1,448 @@
+# W01_0222
+
+如果霧霧的，且濕度不高，則肯定是空氣污染物
+
+台灣的pm2.5 約20%來自境外，境内還是大部分。
+
+
+Ar氬氣 做實驗常用，惰性稀有氣體
+
+## 上課
+
+> Stratosphere, absorption and scattering of solar energy occur; the lower portion contains the stratospheric ozone layer, which absorbs harmful ultraviolet (UV) solar radiation. Long-term accumulation of chlorofluorocarbons (CFCs) and other gases released at the earth’s surface or by high-altitude aircraft affect this layer.
+平流层，太阳能的吸收和散射发生；下部含有平流层臭氧层，吸收有害的紫外线太阳辐射。长期积累的氯氟烃和地球表面或高空飞机释放的其他气体影响这一层。
+
+> Troposphere, which we live and is the primary focus of this course; however, stratospheric ozone formation and destruction in some detail will be also discussed.
+我们生活的对流层是本课程的主要重点；不过，还将详细讨论平流层臭氧的形成和破坏问题。
+
+
+- Troposphere 對流層
+
+顆粒物、有機氣膠，可能會成核、成雨、成冰
+
+污染物可以溯源，北極檢測到的污染物，溯源到中國
+
+會吸收陽光輻射的污染顆粒物，附著在北極的冰，會吸收太陽熱能，加速冰層溶解
+
+- Stratosphere 平流層（以上就是大氣系的專業）
+
+> Tropospheric Composition
+>- “Unpolluted” air in the troposphere means the composition of the air without human influence.- Other constituents, water vapor and other vapors (e.g. organic liquids), as well as liquid and solid phase constituents (aerosols or particulate matter (PM) held in suspension).
+Air pollution terminology generally breaks matter down into two phases, particulate and gas.
+>- Particulates and aerosols are generally synonymous terms in air pollution literature, i.e. liquid and solid phase. They are distinguished from gases and vapors.
+
+>- Thermodynamic systems are classified into two major types: closed and open. A closed system does not allow material to enter or leave the system (refer to “control mass”); a open system allows material to enter and leave the systems (known as “control volume”).
+>- Another thermodynamic concept is that of the “property”. An intensive property is independent of the system’s mass (such as pressure and temperature). An extensive property is proportional to the mass of the system (such as density or volume). Dividing the value of an extensive property by the system’s mass gives a “specific property”, such as specific heat, specific volume, or specific gravity.
+
+
+> The thermodynamic term for the description of the change of a system from one stage (e.g. equilibrium) to another is known as a “process”.
+> 描述系统从一个阶段（例如平衡）到另一个阶段的变化的热力学术语被称为"过程"。
+
+> Processes may be reversible or irreversible; they may be adiabatic (no gain or loss of heat, so all energy transfers occur through work interactions) or non-adiabatic (will be introduced in the following chapters).
+> 过程可能是可逆的或不可逆的；它们可能是绝热的（没有热量的得失，因此所有能量传递都是通过工作相互作用发生的）或非绝热的（将在以下章节中介绍）。
+
+> Other processes include isometric (constant volume), isothermal (constant temperature), isobaric (constant pressure), isentropic (constant entropy), and isenthalpic (constant enthalpy).
+> 其他的过程包括等距（恒定体积）、等温（恒温）、等压（恒压）、等熵（恒熵）、等高温（恒移差）。
+
+> Phases partitioning means the substance will exist in one or more physical phases. An important partitioning coefficient for air pollution is Henry’s Law, which states that the partial pressure of a compound can be related to its equilibrium concentration in a dilute aqueous solution through a constant of proportionality. 
+> 阶段划分意味着物质将存在于一个或多个物理阶段。空气污染的一个重要分配系数是亨利定律，该定律指出，化合物的分压可以通过比例常数与其在稀水溶液中的平衡浓度有关。
+
+
+$e^p = e^{kc}$
+
+e ≈2.71828; p:溶液上的氣體分壓(partial pressure)
+C: 溶液體積莫耳濃度; k: Henry constant (因溶劑和溫度的不同而感變)
+
+> A varying number of molecules will find their way into the air, even though most of the molecules remain in the water, i.e. dissolved in water. Even a small amount of partitioning can account for large amounts of vapor phase compounds in the atmosphere.
+> 不同数量的分子会找到进入空气的途径，即使大部分分子留在水中，即溶解在水中。即使是少量的分隔也可以解释大气中大量的气相化合物。
+>
+> The predominant vapor in the air is, not surprisingly, water vapor.
+>空气中的主要蒸气是水蒸气，这并不奇怪。
+
+
+> In the atmosphere, above their temperature of condensation, vapor molecules act just like permanent gas molecules in the air; below its condensation temperature, if the air is saturated, water changes from vapor to liquid.
+>在大气中，在其冷凝温度之上，蒸气分子的作用就像空气中的永久性气体分子；低于其冷凝温度，如果空气饱和，水从蒸气变为液体。
+
+
+> This phenomenon gives rise to fog or mist in the air and condensed liquid water on cool surfaces exposed to air.
+> 这种现象在空气中产生雾或雾，在暴露于空气的凉爽表面上凝结液态水。
+
+> Gaseous composition in Tables 1.1 is expressed as parts per million by volume - ppm (vol.) or ppmV. 
+> 單位很重要！！！
+
+濃度轉換
+> To convert from units of ppm (vol.) to µg m-3 , it is assumed that the ideal gas law is accurate under ambient conditions. A generalized formula for the conversion at 25 °C and 760 mmHg is:
+
+
+\[ \begin{aligned}
+    \mathrm{1ppm(vol.) pollutant} &=\mathrm{\frac{1l pollutant}{10^6 1 air}}\\
+    &=\mathrm{\frac{(1l/22.4)\times MW \times 10^6 \mu g }{}}
+\end{aligned}\]
+
+> Where MW equals molecular weight (g mol-1).
+For convenience, conversion units for common pollutants are shown in Table 1.3 (next slide)
+
+> More than 90% of the degradation of methane is by oxidation, mainly by reactions with the **hydroxyl radical** in the stratosphere which accounts for more than 90% of methane loss. The equilibria and fate of CO2, CH4, and other carbon compounds are discussed in detail in the following chapters.
+
+> Essential compounds include micronutrients needed by plant life and other organisms in the ecosystems. However, even essential substances can become pollutants in the wrong concentrations. Thus, expression of chemical concentration is crucial to understanding atmospheric science generally and the fundamentals of air pollution specifically.
+
+# 課間
+
+### Chemical Concentration
+
+> Atmospheric concentrations can be expressed as combinations of mass and volume, usually volume per volume or mass per volume.
+>大气浓度可以表示为质量和体积的组合，通常是体积/体积或质量/体积。
+
+
+> The higher the vapor pressure of a substance, the more of the molecules of that substance finds its way to the atmosphere. This exchange among solid, liquid, and gas phases, including vaporization, is discussed in detail in the following chapters.
+>物质的蒸气压越高，该物质进入大气的分子越多。以下各章将详细讨论固体、液体和气体相之间的这种交换，包括汽化。
+
+
+> Atmospheric concentrations can be both spatial and temporal variability, such as the differences in ambient concentrations in various urban areas and seasonal differences in the same urban area.
+>大气浓度可以是空间和时间上的变异性，例如不同城市地区的环境浓度差异和同一城市地区的季节差异。
+
+
+> Although the total amount of substances under the category “organic vapors” is somewhat constant on a global atmospheric scale, it is highly variable in the ambient air (e.g. much higher concentrations near a wood processing facility) and even more variable between ambient and indoor air, as indicated in Table 1.5. 
+>尽管"有机蒸气"类别下的物质总量在全球大气尺度上有些恒定，但在环境空气中变化很大（例如木材加工设施附近的浓度高得多），在环境空气和室内空气之间变化更大，如表1.5所示。
+
+> The variability in chemical concentrations can be even greater among various types of indoor environments.
+
+>各类室内环境中化学浓度的变化可能更大。
+
+> The concentration of an air pollutant that is expected and permitted will vary according to the protection needed in ambient air and various personal and workplace microenvironments
+> 预期和允许的空气污染物浓度将根据环境空气以及各种个人和工作场所微环境所需的保护而变化
+
+### Atmospheric Fluid Properties
+
+The term “fluid” includes all liquids and gases.
+A liquid is a form of matter that is composed of molecules that move freely among themselves without separating from each other.
+
+A gas is a form of matter that is composed of molecules that move freely and are infinitely able to occupy the space in which they are contained at a constant temperature. 
+The medium itself, gases like carbon monoxide, vapors like benzene, and liquid aerosols. 
+Water is a key fluid, such as its vapor phase (e.g. clouds, fog, and steam) and its liquid phase (e.g. droplets, surface and groundwater interactions with the atmosphere).
+"流体"一词包括所有液体和气体。
+液体是物质的一种形式，由在彼此之间自由移动而不相互分离的分子组成。
+
+气体是物质的一种形式，由自由移动的分子组成，并无限能够在恒温下占据它们所包含的空间。
+介质本身，气体如一氧化碳，蒸气如苯，液态气溶胶。
+水是一种关键流体，如蒸气相（例如云、雾和蒸汽）及其液相（例如液滴、地表和地下水与大气的相互作用）。
+
+It is a common practice to add concentrations of nitrogen dioxide and nitric oxide in ppm (vol.) and express the sum as “oxides of nitrogen”. In metric units, conversion from ppm (vol.) to µg m-3 must be calculated separately for nitrogen dioxide and nitric oxide prior to addition.
+在ppm（vol.）中添加二氧化氮和一氧化氮浓度，并将和表示为"氮氧化物"是一种常见的做法。在公制单位中，从ppm（vol.）转换为µg m-3必须在添加之前分别计算二氧化氮和一氧化氮。
+
+**Density** is a very important **fluid property** for any air pollution situation.
+
+If a pollutant is very dense, such as a heavy particle, it will stay aloft for a much shorter time and distance than will a lighter particle of the same shape and size.
+
+### The Science of Air Pollution- Air Pollution in perspective
+
+Biologists may think of how contaminants in the air affect living things.
+
+Ecologists are often interested in how exposures to air pollutants affect biodiversity and overall ecosystem health.
+Biomedical scientists are concerned about the diseases associated with various air contaminants.
+
+Toxicologists, in particular, are interested in how these effects differ from one species to another and from one type of contaminant to another.
+
+It is not unusual for a compound to be acutely toxic at low doses for fish, but acutely toxic in mammals only at much higher doses.
+生物学家可能会想到空气中的污染物如何影响生物。
+
+生态学家常常对空气污染物的暴露如何影响生物多样性和整体生态系统健康感兴趣。
+生物医学科学家关注与各种空气污染物相关的疾病。
+
+毒理学家尤其对这些影响在不同物种之间以及从一种污染物到另一种污染物之间有何不同感兴趣。
+
+一种化合物在低剂量时对鱼类剧毒的情况并不罕见，但在哺乳动物中剧毒的情况仅在高剂量时才是如此。
+
+Biological specialists have myriad concerns about air pollution, such as geneticists’ interest in how pollutants may change genetic material in organisms or how genetically modified organisms may be transported into the atmosphere and potentially reach human populations and ecosystems.
+
+Epidemiologists are interested in how the exposure and effects of air pollutants differ in time and space.
+
+Chemists are often concerned about the various types of pollutants. For example, they may be interested in how reactive or persistent certain compounds are after they are released from a stack, vent, or tailpipe.
+
+How the compounds change after release, i.e. what reactions occur in the atmosphere after release.
+
+生物专家对空气污染有许多关切，例如遗传学家对污染物如何改变生物中的遗传物质或转基因生物如何被运输到大气中并可能到达人类人口和生态系统的兴趣。
+流行病学家对空气污染物的暴露和影响在时间和空间上有何不同感兴趣。
+化学家经常关注各类污染物。例如，它们可能对某些化合物从堆栈、通风口或排气管释放后的反应性或持久性有兴趣。
+化合物释放后如何变化，即释放后大气中发生什么反应。
+
+
+This is also the concern of physicists, who want to explain the thermodynamics and motion that is involved in this transfer and the fate of air pollutants as they are created and after they are released. 
+
+People living near an industrial complex likely will see frequent, visible signs of pollution, such as dark plumes emitted from smoke stacks or hazy conditions on certain days.
+A person with asthma may be more concerned about certain air pollutants than those who have never experienced breathing problems.
+
+Students who have taken a few earth science or meteorology courses, hopefully, will be more aware of even subtle forms of pollution than are lesser informed people.
+这也是物理学家关注的问题，他们想解释这种转移所涉及的热力学和运动，以及空气污染物产生时和释放后的命运。
+居住在工业园区附近的人们可能会看到频繁而明显的污染迹象，如烟囱发出的深色羽毛或某些日子的朦胧状况。
+哮喘患者可能比从未经历过呼吸问题的人更关心某些空气污染物。
+参加过几门地球科学或气象学课程的学生，希望会比了解情况较少的人更了解甚至微妙的污染形式。
+
+The U.S. Environmental Protection Agency (EPA) defines air pollution as the presence of contaminants or pollutant substances in the air that interfere with human health or welfare, or produce other harmful environmental effects.
+
+Most pollutants cannot be sufficiently and accurately detected solely by the five human senses. **Many are odorless, colorless, and otherwise undetectable.**
+
+Even those that are inherently detectable with unaided human senses, such as hydrogen sulfide’s (H2S) rotten egg odor or orange color of lead oxide (PbO), are sensed only at concentrations well above thresholds of harm.
+
+“What you don’t know won’t harm you” is not true for most air pollutants. 
+美国环境保护署（EPA）将空气污染定义为空气中存在干扰人类健康或福利，或产生其他有害环境影响的污染物或污染物物质。
+
+大多数污染物不能仅靠人类的五种感官就能得到充分和准确的检测。许多是无味、无色的，否则是无法检测到的。
+
+即使是那些固有地可以用人类独立感官检测到的物质，例如硫化氢（H2S）腐烂的蛋味或橙色的氧化铅（PbO），也只能在远远高于危害阈值的浓度下被感知到。
+
+"你不知道的不会伤害你"对于大多数空气污染物来说都不是真的。
+
+### The Science of Air Pollution- Emergence of Air Pollution, Engineering, and Technology
+
+Environmental awareness is certainly more “mainstream” and less a polarizing issue than it was in the 1970s, when key legislation reflected the new environmental ethos.
+The 1970 Clean Air Act codified the national need to decrease air pollution by requiring federal standards for ambient air quality. 
+Not only are the environmental disciplines young, but also many of the environmental problems faced today differ from those throughout most of human history.
+
+### The Science of Air Pollution- What is Air Pollution
+
+- When does science consider the atmosphere to be unpolluted versus polluted?
+
+  1. To compare the condition of the atmosphere currently against some type of baseline, e.g. pre-industrialized atmosphere prior to the nineteenth century. 
+  2. Another approach is to consider the principles by which materials are released into the atmosphere, move, transform, and are removed from the atmosphere, and based on this assessment determine the extent of atmospheric pollution.
+
+- The same chemical compounds or particles from a natural source (e.g. a volcano) elicit the same adverse effects as when they are emitted by anthropogenic sources.
+Air pollution implies acceptability
+
+
+Air pollutants affect both human health and ecosystems.
+Approximately two million people in rural areas die each year from exposure to high concentrations of particulate matter (PM) suspended in the **indoor air**. Excess mortality due to **outdoor** PM and sulfur dioxide contribute to mortality of about 500,000 people annually.
+
+In the United States, the Clean Air Act of 1970 established the National Ambient Air Quality Standards (NAAQS) to address six so-called “criteria air pollutants”: particulate matter (PM), ozone (O3), carbon monoxide (CO), sulfur dioxide (SO2), nitrogen dioxide (NO2) and lead (Pb).
+
+The clearest association of toxic air pollutants in recent decades has been with cancer, although neurotoxicity (especially in children) from lead and mercury grew in importance in the 1970s and 1980s. By the end of the twentieth century, new toxic pollutants also competed for the public’s attention, including air pollutants that threaten hormonal systems in humans and wildlife, as well as those associated with immune system disorders. 
+
+
+#### Particulate Matter
+
+PM is always suspended in various concentrations in the troposphere.
+
+Particles are aggregates of many molecules, sometimes of similar molecules, often of dissimilar ones. They form and transform in the air by several processes. 
+
+Some particles serve as nuclei upon which vapors condense. Some particles react chemically with atmospheric gases or vapors to form different compounds.
+
+When two particles collide in the air, they tend to adhere to each other because of attractive surface forces, thereby forming progressively larger and larger particles by agglomeration.
+
+对流层中的PM总是以各种浓度悬浮。
+
+粒子是许多分子的聚集体，有时是相似的分子，往往是不同的分子。它们通过几个过程在空中形成和转化。
+
+一些粒子作为原子核,蒸气在其上凝结.一些粒子与大气气体或蒸气发生化学反应，形成不同的化合物。
+
+当两个粒子在空气中碰撞时，由于有吸引力的表面力，它们倾向于相互粘附，从而通过聚集而逐渐形成越来越大的粒子。
+
+
+
+The larger a particle becomes, the greater its weight and the greater its likelihood of falling to the ground (sedimentation) rather than remaining airborne.
+Washout of particles by snowflakes, rain, hail, sleet, mist, or fog is a common form of agglomeration and sedimentation.
+Other particles leave the air by impaction onto and retention by the solid surfaces of vegetation, soil, and buildings.
+The particulate matter in the atmosphere is dynamic - continual injection into the air from sources of small particles; creation of particles in the air by vapor condensation or chemical reaction among gases and vapors; and removal of particles from the air by agglomeration, sedimentation, or impaction.
+
+---
+
+As mentioned earlier, the true natural **background** concentration will never be known. The best that can be done now is to **assume** that the particulate levels at remote places - the middle of the sea, the poles, and the mountaintops - **approach the true background concentration**.
+
+PM is a common physical classification of particles found in the air, such as dust, dirt, soot, smoke, and liquid droplets.
+PM is not a specific chemical entity but is a mixture of particles from different sources and of different sizes, compositions, and properties.
+The chemical composition of PM is very important and highly variable, which can tell us much about its sources, e.g. receptor models use chemical composition and morphology of particles as a means to trace pollutants back to the source.
+PM是空气中常见的粒子物理分类，如尘埃、污垢、烟尘、烟雾和液滴。
+PM不是一个特定的化学实体，而是来自不同来源和不同大小、组成和性质的粒子的溷合物。
+PM的化学成分非常重要，变化很大，这可以很好地告诉我们它的来源，例如受体模型使用化学成分和颗粒形态作为追踪污染物回源的手段。
+
+---
+
+The chemical composition of tropospheric particles includes inorganic ions, metallic compounds, elemental carbon, organic compounds, and crustal substances (e.g. carbonates and compounds of alkali and rare earth elementals).
+Some atmospheric particles can be hygroscopic, i.e. they contain particle-bound water. 
+The organic fraction can be particularly difficult to characterize, since it often contains thousands of organic compounds.
+Particles range from ultrafine to coarse; the size of a particle is determined by how the particle is formed.
+
+---
+
+If particles are sufficiently small and of low mass, they can be suspended in the air for long periods of time.
+
+Sources of particles are highly variable. 
+
+Particles may be emitted directly to the air from stationary sources, such as factories, power plants, and open burning, and from moving vehicles (known as “mobile sources”), first by direct emissions from internal combustion engines, but also when these and other particles are re-entrained due to the movement of vehicles (e.g. in a “near-road” situation)
+
+如果粒子足够小，质量低，可以长时间悬浮在空气中。
+
+粒子的来源变化很大。
+
+颗粒可直接从固定源（如工厂、发电厂、露天燃烧）和移动车辆（称为"移动源"）排放到空气中，首先是由内燃机直接排放，但也可在这些颗粒和其他颗粒由于车辆移动而被重新夹带时（例如在"近距离"情况下）
+
+---
+
+The volume (mass) distribution is called bimodal because of its separate maxima at about 0.2 and 10 µm, which result from different mechanisms of particle formation. 
+The mode with the 0.2-µm maximum results from coagulation and condensation formation mechanisms. They are called fine particles to differentiate them from the particles in the 10-µm maximum mode, which are called coarse.
+These fine particles are primarily sulfates, nitrates, organics, ammonium, and lead compounds.
+
+体积（质量）分布被称为双峰，因为它在约0.2和10 µm处分离的最大值，这是由不同的粒子形成机制所产生的。
+最大为0.2 µm的模式是由凝结和凝结形成机制所产生的。它们被称为细粒子，以区别于10-µm最大模式下的粒子，称为粗粒子。
+这些细颗粒主要是硫酸盐、硝酸盐、有机物、铵和铅化合物。
+
+---
+
+The mode with the 10-µm maximum are particles introduced to the atmosphere as solids from the surface of the earth and the seas, plus particles from the coagulation-condensation mode which have grown larger and moved across the trough between the modes into the larger size mode. These are primarily silicon, iron, aluminum, sea salt, and plant particles.
+The majority of particles in the atmosphere are spherical in shape because they are formed by condensation or cooling processes or they contain core nuclei coated with liquid.
+Other important particle shapes exist in the atmosphere; e.g. asbestos is present as long fibers and fly ash can be irregular in shape.
+The amount of each element or radical, anion, or cation that is present in the mixture can be determined.
+Specific organic compounds may be separated and identified.
+The shapes of individual particles may be analyzed by electron microscopy.
+Particle size dictates the necessary control technologies, determines the types of health and environmental problems to be expected when particles are inhaled and retained by the human respiratory system and when particles absorb and scatter incoming solar radiation.
+
+10 µm最大值的模式是作为固体从地球表面和海洋引入大气层的粒子，加上凝结-凝结模式的粒子，这些粒子已经变得更大，并且在模式之间跨槽移动到更大的尺寸模式。这些主要是硅、铁、铝、海盐和植物颗粒。
+大气中的大部分粒子是球形的，因为它们是由冷凝或冷却过程形成的，或者含有涂有液体的核核。
+大气中还存在其他重要的粒子形状；例如石棉存在于长纤维和粉煤灰可以是不规则的形状。
+可以确定溷合物中存在的每个元素或自由基、阴离子或阳离子的量。
+可以分离和鉴定特定的有机化合物。
+单个粒子的形状可以用电子显微镜分析。
+粒径决定了必要的控制技术，决定了人类呼吸系统吸入和保留粒子以及粒子吸收和散射进入的太阳辐射时预期的健康和环境问题类型。
+
+---
+
+### The Science of Air Pollution- Atmospheric Transport and Fate
+
+Air pollutants are studied from at least three perspectives: the sources, the movement, and the receptors.
+The sources of air pollutants vary in size (e.g. tons emitted per year), type (e.g. stationary or mobile) and composition (e.g. coke oven emissions include thousands of compounds, but many smelters include a handful of metals).
+Movement can range from molecular diffusion to continental and global transport in winds aloft.
+Receptors include humans, ecosystems, and materials.
+
+至少从三个角度研究空气污染物：来源、运动和受体。
+空气污染物的来源在大小（例如每年排放的吨）、类型（例如固定式或移动式）和成分（例如焦炉排放物包括数千种化合物,但许多冶炼厂包括少量金属）方面各不相同。
+运动范围从分子扩散到大风中的大陆和全球运输.
+受体包括人类、生态系统和物质。
+
+---
+
+### Sources and Sinks
+The places from which pollutants emanate are called sources.
+
+There are natural as well as anthropogenic sources of the particles and gases considered to be pollutants. 
+
+Plant and animal respiration and the decay of what was once living matter; . Volcanoes and naturally caused forest fires are other natural sources.
+
+A special type of natural sources are biogenic, which are living things that release a variety of pollutants, both organic (e.g. volatiles like pinene) and inorganic (e.g. carbon dioxide [CO2] and methane [CH4]).
+
+污染物产生的地方称为来源。
+
+有被认为是污染物的颗粒和气体的自然和人为来源。
+
+植物和动物的呼吸以及曾经生物的腐烂；火山和自然引起的森林火灾是其他自然来源。
+
+一种特殊类型的自然来源是生物来源，它们是释放各种污染物的生物，包括有机污染物（例如，像松烯这样的挥发物）和无机污染物（例如，二氧化碳［CO2］和甲烷［CH4］）。
+
+---
+
+The places to which pollutants disappear from the air are called **sinks**. 
+Sinks include the soil, vegetation, structures, and water bodies, particularly the oceans.
+The mechanisms whereby pollutants are removed from the atmosphere are called **scavenging mechanisms**.
+The measure used for the aging of a pollutant is its **half-life** - the time it takes for half of the quantity of a pollutant emanating from a source to disappear into its various sinks.
+Most pollutants have a rather short half-life (i.e. days rather than decades) that prevents their accumulation in the air to the extent that they substantially alter the composition of unpolluted air. 
+
+污染物从空气中消失的地方称为**汇**。
+水槽包括土壤、植被、结构和水体，特别是海洋。
+污染物从大气中清除的机制称为**清除机制**。
+用于污染物老化的措施是其**半衰期**，即从一个源发出的污染物数量的一半消失到其各种汇中所需的时间。
+大多数污染物的半衰期较短（即几天而不是几十年），可防止污染物在空气中积聚，从而大大改变未污染空气的成分。
+
+---
+
+Several gases do appear to be **accumulating** in the air to the extent that measurements have documented the increase in concentration from year to year. Such as CO2, nitrous oxide (N2O), CH4, CFCs, and other **halocarbons**.
+
+CFCs are chemically very stable compounds in the troposphere and have half-lives from tens of years to over hundreds of years.
+
+One of the sinks for CFCs is** transport to the stratosphere**, where shortwave UV radiation photo-dissociates the molecules, releasing chlorine (Cl) atoms. When in excess, these Cl atoms decrease the steady state stratospheric ozone concentration, in turn increasing the penetration of harmful UV radiation to the earth’s surface.
+
+有几种气体似乎在空气中**积累**，其测量结果表明浓度逐年增加。如CO2、一氧化二氮（N2O）、CH4、CFC等**卤代烃**。
+
+氟氯化碳是对流层中化学上非常稳定的化合物，半衰期从几十年到几百年。
+
+氟氯化碳的一个汇是**传输到平流层**，在那里短波紫外线辐射将分子光解离，释放出氯（Cl）原子。当过量时，这些Cl原子降低稳态平流层臭氧浓度，进而增加有害紫外线辐射对地球表面的渗透。
+
+---
+
+**Oxidation**, either atmospheric or biological, is a prime removal mechanism for inorganic as well as organic gases.
+Inorganic gases, such as nitric oxide (NO), nitrogen dioxide (NO2), hydrogen sulfide (H2S), sulfur dioxide (SO2), and sulfur trioxide (SO3), may eventually form corresponding acids:
+Oxidation of SO2 is slow in a mixture of pure gases, but **the rate is increased by light**, NO2, oxidants, and metallic oxides which act as catalysts for the reaction. 
+The formed acids can react with PM or ammonia to form salts, such as sulphate and nitrate.
+
+
+**大气或生物氧化**是无机和有机气体的主要去除机理。
+无机气体，如一氧化氮（NO）、二氧化氮（NO2）、硫化氢（H2S）、二氧化硫（SO2）、三氧化硫（SO3），最终可能形成相应的酸：
+在纯气体的溷合物中，SO2的氧化速度较慢，但**其速率由光促進**、NO2、氧化剂和作为反应催化剂的金属氧化物增加。
+形成的酸可以与PM或氨反应生成盐，如硫酸盐和硝酸盐。
+
+---
+
+### Receptors
+
+A receptor is something that is adversely affected by polluted air.
+
+A receptor may be a person or animal that breathes the air and whose health may be adversely affected thereby, or whose tissue may be irritated, or whose surfaces (e.g. skin, leaf cover, roof) may be coated or discolored.
+
+Some properties of the atmosphere itself, such as its ability to transmit radiant energy, may be affected.
+
+Aquatic life in lakes and some soils are adversely affected by acidification via acidic deposition.
+
+---
+
+### Transport and Dispersion
+Transport is the mechanism that moves the pollution from a source to a receptor.
+The wind is the means by which the pollution is transported from the source to the receptor.
+During its transit over the 5 mile between the source and the receptor, the plume does not remain a cylindrical tube of pollution of the same diameter as the interior of the stack from which it was emitted. 
+
+---
+
+If the wind speed is greater than the speed of ejection from the stack, the wind will stretch out the plume until the plume speed equals wind speed.
+The sum of all these processes is called *diffusion*.
+**Dispersion** is the preferred term when discussing atmospheric transport at a scale larger than molecular.
+If the plume carrying air pollutants is above the height where ground-based convective and turbulent processes will bring it down to the ground reasonably close to its origin, it may travel for hundreds of miles at that height before being brought to earth by these processes in a remote community. This is known as** long-range or long-distance transport**.
+
+---
+
+### Polluted Atmosphere
+
+The same chemical compounds or particles from a natural source (e.g. a volcano) elicit the same adverse effects as when they are emitted by **anthropogenic sources**. 
+
+The source does not define air pollution. The receptor is a better reference point for determining whether air is polluted or unpolluted. (Examples).
+
+Unpolluted air is merely a benchmark to show the extent and trends of air pollution. Governments around the world have established and are continuously evaluating the impact of elevated levels of myriad gases and particulate material in the atmosphere. (**Visibility, health, ecosystems, buildings and structures**)
+
+来自天然来源（如火山）的相同化合物或颗粒所产生的不利影响与来自**人为来源**的化学化合物或颗粒所产生的不利影响相同。
+
+来源没有界定空气污染。该受体是确定空气是被污染还是未被污染的一个更好的参考点。（例子）。
+
+未受污染的空气仅仅是表明空气污染程度和趋势的基准。世界各国政府已经建立并不断评估大气中无数气体和颗粒物含量升高的影响。（**能见度、健康、生态系统、建筑物和构筑物**）
+
+---
+
+A substance is an air pollutant only in amounts which could be harmful to the health or comfort of humans and animals or which could cause damage to plants and materials”.
+
+When a substance is deemed to be an air pollutant, the governments are compelled to set standards and to require prevention, control, and other actions to decrease the pollution to a concentration considered acceptable.
+
+Air pollutants are a type of “contaminant”, which implies that something must be cleaned up.
+
+Contamination is also a term that is applied differently by scientists and the general public, as well as among scientists from different disciplines.
+
+物质是一种空气污染物，其含量可能对人和动物的健康或舒适有害，或可能对植物和材料造成损害。"
+
+当一种物质被视为空气污染物时，各国政府被迫制定标准，要求采取预防、控制和其他行动，将污染降低到被认为可以接受的浓度。
+
+空气污染物是一种"污染物"，意味着必须清理一些东西。
+
+污染也是科学家和公众以及来自不同学科的科学家以不同方式使用的术语。
+
+---
+
+Public health is usually the principal driver for assessing and controlling environmental contaminants, but ecosystems are also important receptors of contaminants (i.e. acid rain).
+
+Contaminants are not limited to abiotic chemical substances, but can be biological (viruses, molds, etc.) and physical, such as the energy from ultraviolet (UV) light.
+
+公共卫生通常是评估和控制环境污染物的主要驱动力，但生态系统也是污染物（即酸雨）的重要受体。
+
+污染物不限于非生物化学物质，而可以是生物（病毒、霉菌等）和物理的，例如来自紫外线（UV）光的能量。
