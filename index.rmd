@@ -1,0 +1,44 @@
+---
+title: "1112 空氣污染概論"
+author: "丁老師"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output: bookdown::gitbook
+link-citations: true
+description: "111-2 學期空氣污染概論課堂筆記。采用R的bookdown制作，输出格式为bookdown::gitbook."
+---
+
+
+# Preface {-}
+
+空氣污染概論
+
+111-2 學期《空氣污染概論》課堂筆記。采用R的bookdown製作，輸出格式為bookdown::gitbook。
+
+## Text and references for this course
+
+- Fundamentals of Air Pollution, 5th Edition. Daniel Vallero
+- Case studies.
+- 《空氣污染防治——理論及設計》
+
+## Grading
+
+Homework: 40%.
+Midterm and final exams: 60%.  
+
+
+## Outline
+
+- Foundations of Air Pollution
+
+- The Risks of Air Pollution
+
+- Tropospheric Pollution
+
+- Biogeochemistry of Air Pollutants
+
+- Addressing Air Pollution
+
+- The Future for Air Pollution Science and Engineering
+
