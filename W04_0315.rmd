@@ -1,0 +1,609 @@
+# W04_0315
+
+## Air Pollutant Kinetics and Transformation– Chemical Transformation
+
+The extent and severity of air pollution begins with an understanding of the inherent properties of the agent, i.e. the air pollutant.
+
+The agent’s properties are key to the conditions under which it will be transformed chemically as it forms within sources, moves to the atmosphere, and reaches its fate in the environment.
+
+Chemical transformation of an air pollutant considers more than atmospheric transformation.
+
+The most obvious stage of the air pollutant’s life cycle is its residence in the atmosphere.
+
+--- 
+
+The stages before and after its atmospheric presence must also be understood, for example, to prevent air pollution before it happens.
+
+Sulfur dioxide (SO2) is an air pollutant that can be produced in a number of ways. If the source is combustion, the best means of preventing its formation occurs in the combustion process (using fuel with lower concentrations of sulfur).
+
+If it occurs as a result of the release of hydrogen sulfide (H2S) produced by anaerobic bacteria in sediment, which is subsequently transformed to SO2 in surface waters and the atmosphere, the prevention and controls would be different (e.g. increasing the oxygen content of the sediment to eliminate the anaerobes)
+
+---
+
+Although the resulting atmospheric concentrations of SO2 might be equal in both scenarios described in the previous paragraph (Figure 17.1), the transformations leading to these concentrations are quite different.
+
+In the first, the oxidation by combustion leads to the production of SO2 that is emitted directly to the atmosphere.
+
+In the second, sulfur compounds are formed in a low oxygen, reduced environment that releases a reduced form of sulfur, which is then oxidized abiotically in the atmosphere.
+
+The SO2 that is directly released to the atmosphere was already in an oxidized state, so it may remain in that form or be further oxidized.
+
+---
+
+If the fate is the human body or that of another organism, transformations continue in what is known as toxico-kinetics, i.e. biochemical reactions or bio-transformations that occur as a result of absorption, distribution, metabolism, and excretion of a substance.
+
+If the fate is an ecosystem or a habitat within the ecosystem, both abiotic and biotic transformations occur, depending on the conditions.
+
+Even if the fate is a material, such as part of a building or other structure, kinetics continue, e.g. a deposited sulfate compound may react with the calcium carbonate or metal in a bridge, causing corrosion and ultimately placing the driving public at risk.
+
+The inherent physical and chemical properties dictate some of these transformations, which can often be characterized using analytical tools, such as the quantitative structure activity relationship.
+
+ ---
+
+Molecular weight, polarity (結核), and molar volume are fundamental properties that are directly ascertained from the chemical structure. These drive other inherencies important to air pollution, especially aqueous solubility, vapor pressure, and dissociation constant.
+
+The two properties that are always important in environmental and atmospheric transformation are solubility and vapor pressure, which have been described as saturation properties.
+
+That is, they are expressions of the maximum amount of the chemical that can be held in the liquid (solubility) and gas (vapor pressure) phases.
+
+These inherent properties combine with others to make a chemical compound comparatively susceptible to environmental transformation or degradation, especially decomposition by photons **(photochemical decomposition)**（光子、光解）, water (hydrolysis), and energy transfer in organisms (biotic decomposition)
+
+ ---
+
+Each chemical compound has a unique residence time or half-life (t1/2) within each compartment.
+
+It should be noted that t1/2, which is commonly used to indicate chemical and environmental persistence, is merely analogous, but not equal to the constant halflife of a radioisotope.
+
+The t1/2 for chemicals in the environment is a function of inherent properties and environmental conditions.
+
+All chemical transformations depend on temperature, atmospheric pressure, humidity, radical concentrations (especially hydroxyl), substrate (including water content and porosity), oxidation and reduction states, oxygen content, and microbial abundance and diversity.
+
+The t1/2 is highly variable by compartment and by season of the year.
+
+---
+
+Aromatic compounds with several halogen substitutions are highly lipophilic, so these compounds are likely to become dissolved in any organic solvents present in the soil or in a storage tank, rendering them more mobile.
+
+Conversely, these same compounds are less likely to come into contact with reactive substances in the absence of these organic solvents.
+
+Likewise, if oxygen molecules or radicals are present in abundance, oxidation reactions are likely; whereas, if oxygen is scarce, reduction reactions are expected. 
+
+How molecules are absorbed to and desorbed from substrate and matrix surfaces also affects the extent of chemical transformation, i.e. tetrachlorodibenzo-para-dioxin is almost nonreactive in certain soils since the molecules are tightly bound to abundant sorption site (one reason dioxin-contaminated soils are so difficult to treat; requiring large amounts of heat energy for desorption from soil surfaces).
+
+
+有几个卤素取代的芳香族化合物具有高度的亲油性，因此这些化合物很可能会溶解在土壤中或储罐中的任何有机溶剂中，从而使它们具有更大的流动性。
+
+相反，在没有这些有机溶剂的情况下，这些相同的化合物不太可能与反应性物质接触。
+
+同样，如果氧分子或自由基大量存在，就有可能发生氧化反应；而如果氧气稀少，预计会发生还原反应。
+
+分子如何被基质和基体表面吸收和解吸也会影响化学转化的程度，例如，四氯二苯并对二恶英在某些土壤中几乎没有反应，因为分子与丰富的吸附点紧密结合（二恶英污染的土壤如此难以处理的原因之一；需要大量的热能来从土壤表面解吸）。
+
+---
+
+Type and amount of energy also dictates the kinds and rates of chemical transformation. If sunlight is abundant, photochemical reactions may occur.
+Oxidation and reduction (i.e. redox) reactions may occur if aerobic and anaerobic microbes are present, respectively, as these organisms accept and donate electrons for energy transfer.
+Transport and transformation determine a contaminant’s fate in the environment.
+Figure (next slide) shows how a chemical compound’s transport, transformation, and fate lead to air pollution risk to human populations and ecosystems.
+
+能量的类型和数量也决定了化学转化的种类和速度。如果阳光充足，可能会发生光化学反应。
+如果有好氧和厌氧微生物存在，就可能发生氧化和还原（即氧化还原）反应，因为这些生物接受和捐献电子进行能量转移。
+运输和转化决定了污染物在环境中的命运。
+图（下一张幻灯片）显示了一个化合物的运输、转化和转归如何导致空气污染对人类和生态系统的风险。
+
+---
+
+## Air Pollutant Kinetics and Transformation– Kinetics
+
+Chemical kinetics is the description of the rate of a chemical reaction. 
+Since a rate is a change in quantity that occurs with time, the change we are most concerned with is the change in the concentration of our contaminants into new chemical compounds:
+
+
+and
+
+
+
+
+---
+
+When a compound breaks down, i.e. degrades, the change in product concentration will be decreasing proportionately with the reactant concentration. For substance A the kinetics is:
+
+
+The negative sign denotes that the reactant concentration (the parent contaminant) is decreasing.
+The degradation product C resulting from the concentration will be increasing in proportion to the decreasing concentration of the contaminant A, and the reaction rate for Y is:
+
+---
+
+∆(X) is calculated as the difference between an initial concentration and a final concentration:
+\[\Delta(X) = \Delta(X)_{\text{final}}- \Delta(X)_{\text{initial}}\]
+
+Thus, the rate of reaction at any time is the negative of the slope of the tangent to the concentration curve at that specific time.
+
+For a reaction to occur, the molecules of the reactants must collide.
+High concentrations of a substance are more likely to collide than low concentrations.
+
+---
+
+The reaction rate must be, therefore, a function of the concentrations of the reacting substances.
+In a reaction of reactants A and B to yield product C (i.e. A + B →C), the reaction rate increases in accordance with the increasing concentration of either A or B.
+If the amount of A is tripled, then the rate of this whole reaction triples. Thus, the rate law for such a reaction is:
+
+
+\[Rate = k[A][B]\]
+
+The rate law for the different reaction X + Y → Z, in which the rate is only increased if the concentration of X is increased (changing the Y concentration has no effect on the rate law), must be:
+
+\[Rate = k[X]\]
+
+
+---
+
+Equations (17.6) and (17.7) indicate that the concentrations in the rate law are the concentrations of reacting chemical species at any specific point in time during the reaction.
+
+The rate is the velocity of the reaction at that time. 
+
+The constant k in the equations is the rate constant, which is unique for every chemical reaction and is a fundamental physical constant for a reaction, as defined by environmental conditions (e.g. pH, temperature, pressure, type of solvent).
+
+The rate constant is the rate of the reaction when all reactants are present in a 1 molar (M) concentration.
+
+The rate constant k is the rate of reaction under conditions standardized by a unit concentration.
+
+The overall kinetic order is the sum of the exponents (powers) of all the concentrations in the rate law. For the rate k[A][B], the overall kinetic order is 2.
+
+Such a rate describes a second-order reaction because the rate depends on the concentration of the reactant raised to the second power.
+
+Other decomposition rates are like k[X], and are first-order reactions because the rate depends on the concentration of the reactant raised to the first power.
+
+K[A][B] is second-order for each reactant and k[X] is first-order X and zero-order for Y.
+
+In a zero-order reaction, compounds degrade at a constant rate and are independent of reactant concentration.
+
+---
+
+## Air Pollution Physics and Chemistry
+
+
+Air pollution physics must be considered mutually with air pollution chemistry.
+
+Any complete discussion of the physical process of solubility, for example, must include a discussion of polarity.
+
+Any discussion of polarity must include a discussion of electronegativity.
+
+Discussions of sorption and air-water exchanges must consider both chemical and physical processes.
+
+Air pollution involves five categories of chemical reactions. Various types of reaction occur within boilers and other industrial operations; in stacks; in the plume; in the microenvironments and ecosystems; and within organisms.
+
+---
+
+### Synthesis or Combination
+
+In combination reactions, two or more substances react to form a single substance:
+
+\[A+B \rightarrow AB\]
+
+Two types of combination reactions are important in environmental systems, i.e. formation and hydration.
+
+Formation reactions are those where elements combine to form a compound. Examples include the formation of ferric oxide and the formation of octane:
+
+
+---
+
+Hydration reactions involve the addition of water to synthesize a new compound, for example, when calcium oxide is hydrated to form calcium hydroxide, and when phosphate is hydrated to form phosphoric acid.
+
+
+
+### Decomposition
+
+\[AB \rightarrow A+B\]
+
+Calcium carbonate breaks down into calcium oxide and carbon dioxide:
+
+
+CaCO~3~(s) $\rightarrow$ CaO(s)+CO~2~(g)
+
+Most decomposition reactions need energy added to the reaction. When electricity provides the energy, it is known as electrolysis. When photons provide the energy, it is known as photolysis. When microbes decompose an organic compound into simpler compounds, the process is known as biodegradation
+
+### Single Replacement
+
+A+BC $\rightarrow$ AC+B
+
+Single replacement (or single displacement) commonly occurs when one metal ion in a compound is replaced with another metal ion, such as when trivalent chromium replaces monovalent silver:
+
+3AgNO~3~(aq)+Cr(s) $\rightarrow$ Cr(NO~3~)~3~(aq)+3Ag(s)
+
+### Double Replacement
+
+AB+CD $\rightarrow$ AD+CB
+
+### Complete Combustion
+
+Complete or efficient combustion (thermal oxidation) occurs when an organic compound is oxidized in the presence of heat (indicated by ∆):
+
+
+Combustion is the combination of O2 in the presence of heat (as in burning fuel) producing CO2 and H2O during complete combustion of organic compounds, such as the combustion of octane:
+
+
+Complete combustion may also result in the production of molecular nitrogen (N2) when nitrogen-containing organics are burned, such as in the combustion of methylamine:
+
+
+## Air Pollutant Kinetics and Transformation– Rate Laws and Air Pollution Thermodynamics
+
+
+Chemical transformation is explained by air pollution thermodynamics.
+Within the context of thermodynamics, a system is a sector or region in space or some parcel of a sector that has at least one substance that is ordered into phases.
+Reactors, stack gases, plumes, the open atmosphere, microenvironments, organisms and cells have qualities of both closed and open systems.
+A closed system does not allow material to enter or leave the system (engineers refer to a closed system as a “control mass”). The open system allows material to enter and leave the systems (such a system is known as a control volume).
+
+During airborne transport, an air pollutant may also undergo chemical changes. These changes may form toxic compounds or other types of problems, e.g. they may become stronger greenhouse gases. 
+After deposition, chemical reactions occur in the soil, water, and biota.
+Thus, air pollutants are a mix of chemical reactions occurring at myriad rates. 
+Air pollution seldom occurs in a single system. A better way to consider these mixed systems is pseudo orders in the rate laws, i.e. “pseudo-open” and “pseudo-closed” systems.
+Applying the qualifier “pseudo” to absolute terms is a good way to describe the actual rates that occur in the environment, as opposed to well-controlled laboratory experiments.
+
+The rate law for a chemical reaction is an equation that links the rate of the reaction with concentrations of reactants and rate constants (commonly, partial order reactions and rate coefficients). The rate is expressed as:
+
+Where k is the rate coefficient, the concentration of each chemical species are in brackets and the exponents are derived experimentally.
+A first-order reaction occurs at a linear rate:
+
+
+Similarly, a second-order reaction rate is:
+
+
+Or,
+
+
+The rate equations for third and next orders would follow the same format.
+
+
+---
+
+In air pollution, numerous reactants are involved in reactions. Thus, mixed second order rate reactions can be expressed as:
+
+
+When reaction rates exceed first-order, the chemical concentrations can be adjusted so that the kinetics appears to be first-order. So, for the simple reaction 2A + B → C, the rate law would be:
+
+
+[B] changes extremely more slowly than the change in [A]. In this instance, Eq. (17.27) can be better written as:
+
+
+where k’ is a pseudo-first-order rate coefficient (units are inverse time, s-1 ).
+
+---
+
+## Free Energy
+
+Free energy is the measure of a system’s ability to do work.
+If reactants in a reaction have greater free energy than the products, energy is released from the reaction; which means the reaction is exergonic.
+If the products from the reaction have more energy than the reactants, then energy is consumed; i.e. it is an endergonic reaction.
+Equilibrium constants can be ascertained thermodynamically by employing the Gibbs free energy (G) change for the complete reaction. This is expressed as:
+
+where G is the energy liberated or absorbed in the equilibrium by the reaction at constant T. H is the system’s enthalpy and S is its entropy.
+
+---
+
+Enthalpy is the thermodynamic property expressed as:
+
+H=U+pV
+
+where U is the system’s internal energy.
+The relationship between a change in free energy and equilibria can be expressed by:
+
+
+\[\Delta G^* = \Delta G^{*0}_f +RT \ln K_{eq}\]
+
+where ∆Gf*0 = free energy of formation at steady state (kJ g mol-1 ).
+The total energy in systems is known as enthalpy (H) and the usable energy is known as free energy (G). 
+Living cells need G for all chemical reactions, especially cell growth, cell division, and cell metabolism and health.
+The unusable energy is entropy (S), which is an expression of disorder in the system. Disorder tends to increase as a result of the many conversion steps outside and inside of a system.
+
+---
+
+## Air Pollutant Kinetics and Transformation – Atmospheric Transformation
+
+During their time in the atmosphere, chemical compounds generally become oxidized.
+Gases in reduced states undergo step reactions to form ionic substances, which are in turn washed out by rain and other precipitation, known in the atmospheric sciences as deposition.
+Hydrogen sulfide (H2S) is a reduced species of sulfur. After emission to the atmosphere, it is dissolved in water vapor and is oxidized to form sulfate compounds or anions.
+For example, sulfate ions are formed when hydrogen sulfide is hydrolyzed:
+
+$\require{mhchem}$
+$\ce{H2OS(g) + H2O(l)->SO4^{2-} + 4H+ }$
+
+### Inorganic Reactions
+
+The inorganic chemical species is most important to atmospheric kinetics and transformation reactions can be grouped into five classifications:
+Odd oxygen species 
+Odd hydrogen species 
+Reactive nitrogen species 
+Reactive sulfur species 
+Reactive halogen species
+
+Odd oxygen species include O3, atomic O and O(1D), which is an O atom in an excited singlet state.
+Odd hydrogen species include OH, HO2, and atomic H.
+Reactive nitrogen species include NO, NO2, NO3, HNO2, HNO3, and NH3.
+Reactive sulfur species include SO2, SO3, H2SO3, H2SO4, and H2S. 
+Reactive halogen species include F, FO, Cl, ClO, Br, BrO, I, IO, HCl, and Cl2.
+
+---
+
+Solar radiation initiates the formation of free radicals.
+The internal energy of molecules is composed of electronic energy states.
+Molecules interact with solar radiation by absorbing photons, causing the molecule to undergo a transition from the ground electronic state to an excited state. 
+The change in energy between the two states corresponds to a quantum or photon of solar radiation.
+The frequencies (v) of absorption are expressed by Planck’s law:
+
+\[E = hv = hc/ \lambda\]
+
+where h is Planck’s constant, c is the speed of light, and v and λ are the frequency and wavelength of the light of the photon, respectively. The photon is represented as hv.
+
+---
+
+Molecules and atoms interact with photons of solar radiation under certain conditions to absorb photons of light of various wavelengths.
+Each molecule absorbs solar radiation at its own range of wavelengths (right Table).
+An excited molecule can follow several pathways, including fluorescence, collisional deactivation, direct reaction, and photodissociation.
+Transformations occur by rate order.
+The photolytic reactions discussed in the next section include first-order reactions in the troposphere.
+
+---
+
+For example, ozone is photolyzed to O(1D) and molecular oxygen:
+
+\[\ce{O3 + hv -> O(1D) + O2}\]
+
+This is an extremely important first-order transformation because the O(1D) is hydrolyzed in a second-order reaction to form OH, which is the most important oxidizing agent in the atmosphere:
+
+\[\ce{ O(1D) + H2O -> 2OH}\]
+
+Another first-order photolytic reaction occurs when nitrogen dioxide is converted to atomic oxygen and NO:
+
+\[\ce{ NO2 + hv -> O + NO}\]
+
+
+The atomic O leads to the production of ozone in the atmosphere when it combines with molecular oxygen and a relatively nonreactive molecule (M):
+
+\[\ce{ O + O2 + M -> +O3 + M}\]
+
+---
+
+In the stratosphere, first-order reactions include photolysis of molecular oxygen and nitrous oxide, which yield the atomic O needed to form the ozone layer:
+
+\[\ce{ O2 +hv -> +O +O}\]
+
+
+Another important first-order reaction in the stratosphere is the photolytic transformation of greenhouse gas, nitrous oxide, which slows its accumulation:
+
+\[\ce{ N2O +hv -> +N2 +O(1D)}\]
+
+Heterogeneous reactions in a rain drop can break down nitric acid in the gas phase during washout, producing nitrate and hydronium ions in the rainwater:
+
+\[\ce{ HNO3(g)->[\ce{H2O(l)}] NO3^- +HNO+}\]
+
+---
+
+Second-order reactions are actually the most common type of atmospheric inorganic reaction, including the reactions of radicals, such as Eqn (17.36).
+Others include the transformation of carbon monoxide to carbon dioxide, the formation of HO2 and formation of nitrogen dioxide from nitric oxide:
+
+
+
+Carbon monoxide is a quite conservative (i.e. nonreactive) air pollutant.
+One pathway for breaking down CO is by oxidation by molecular oxygen in water and sunlight.
+
+---
+
+Second-order reactions also occur in the stratosphere, including the reactions involving O(1D):
+
+
+These reactions are involved in what is known as a null cycle, i.e. the net result of the reactions is that no products are formed or degraded, but light energy is absorbed and molecules are heated.
+Second order reactions occur at extremely short wavelength ultraviolet radiation, such as:
+
+A pathway explains how reactive NO and O are formed from relatively nonreactive molecular nitrogen and oxygen via ultraviolet radiation:
+
+### Organic Reactions
+
+Reaction rate calculations for organic compounds are similar to those for inorganic reactions, but elementary reactions are not often applied to transformations of organic compounds in the atmosphere. 
+
+### Hydrolysis
+
+Compounds are degraded when they react with water.
+Hydrolysis is the potential of the chemical to be transformed into a byproduct and water. 
+Hydrolysis occurs in every environmental compartment and is a key part of metabolism by organisms.
+
+---
+
+Molecules react with water vapor in the atmosphere. Hydrolysis is also important before and after the atmospheric residence of a pollutant.
+For example, complex molecules may be hydrolyzed by biotic and abiotic mechanisms, forming smaller, lighter molecules that have higher vapor pressures or that are more soluble in water.
+Following deposition, air pollutants may become hydrolyzed, making them more bioavailable and more likely to be taken up by organisms.
+Within organisms, hydrolysis is a key process in metabolism, making substances more polar (i.e. adding hydroxyl ions [OH]), and increasing the aqueous solubility; thus, the compounds are more easily eliminated.
+
+---
+
+Hydrolysis often occurs simultaneously with other chemical transformation mechanisms.
+In thermal processes to break down large organic molecules, hydrolysis occurs along with gasification, pyrolysis, and combustion:
+
+\[\ce{C20H32O10 +x1O2 +x2H2O ->[][\Delta] y1C + y2CO2 +y3CO +y4H2 +y5CH4 +y6H2O +y7C_nH_m}\]
+
+
+The coefficients x and y balance the compounds on either side of the reaction.
+The delta under the arrow indicates heating.
+Hydrolysis is highly dependent on temperature, with slight changes dramatically affecting the rate of the reaction e.g. some reaction rates will more than double with a 10 °F increase.
+
+### Multicompartmental Photochemical Transformation
+
+As mentioned, solar radiation influences the chemical processes in the atmosphere by interacting with molecules that act as photoacceptors.
+Free radicals are formed by the photodissociation of certain types of molecules. These free radicals are highly reactive neutral fragments of stable reactive molecules.
+Examples include atomic oxygen (O), atomic hydrogen (H), the hydroxyl radical (OH), and the hydroperoxy radical (HO2). Aldehydes are the principal photoacceptors in photochemical oxidant smog, NO2, nitrous acid (HNO2), and O3.
+Photodissociation depends on the energy provided by photons.
+
+Photochemical degradation occurs in all compartments where sunlight is present.
+A compound will often undergo several types of transformation, including abiotic, e.g. photolysis, and biotic degradation.
+Photons (hv) interact with and transform the molecules directly:
+
+\[\ce{A +hv -> A +B}\]
+Photons also form many highly reactive atmospheric free radicals, which are chemical species with an unpaired electron in the outermost shell.
+This unpaired electron imparts very high free energies to a radical, making it much more reactive than its nonradical counterparts.
+A chemical species with an odd number of electrons is a radical, whereas one with an even number of electrons is a nonradical.
+
+---
+
+NO is a radical since N has seven electrons and O has eight, for a sum of 15 electrons. However, HNO3 is a nonradical since H has one electron, N has seven and three O atoms (3 *8) has 24 electrons, for a sum of 32 electrons.
+Given their reactivity, free radical concentrations are quite small in the atmosphere, usually < 1ppb.
+These relatively small numbers are crucial to most atmospheric transformations, given that free radicals actually transform most chemical species in the atmosphere.
+Thus, free radical kinetics plays a large role in air pollution kinetics.
+Given a radical’s high free energy, they are generally formed endothermically from nonradical species, i.e. an external source of energy is needed.
+This energy is supplied by sunlight in the atmosphere:
+
+\[\ce{nonradical +hv -> radical +radical}\]
+
+Equation (17.53) provides the first step in the propagation of radical reaction chains, i.e. subsequent reactions of radicals with nonradical species:
+
+\[\ce{radical +nonradical  -> radical +nonradical}\]
+
+To conserve the total odd number of electrons, the reaction of a radical with a nonradical must always yield a radical.
+The radical produced then reacts with another nonradical, and so on. 
+A nonradical species produced in this manner may photolyze so that additional radicals are generated according to Eq. (17.54).
+
+---
+
+Truncating the chain requires reactions between radicals; that is, a radical plus a radical that produces a nonradical and a nonradical.
+The termination may also involve a third body (M), which is any relatively nonreactive molecule (often N2 and O2) that removes excess energy, dissipating it as heat:
+
+\[\ce{radical +radical +M -> nonradical +M}\]
+
+Such termination reactions generally occur more slowly than propagation reactions because radicals are present at low concentrations and collisions between radicals are therefore relatively infrequent.
+
+## 溫室效應與臭氧層破壞的問題
+
+### 溫室效應發生原因
+
+到達地球的太陽能中約有30%被反射，其餘皆被地球表面吸收而轉換成熱量，然後再以紅外線的型態將此熱量放射出去。
+由於CO2具有吸收紅外線的特性，因此大氣中的CO2濃度增加後，本來要輻射到太空中的紅外線卻被CO2吸收而轉換成熱量，使地球氣溫上升。
+
+### 導致大氣中CO2濃度增加的原因
+
+因經濟成長、工業發展使化石燃料之使用大幅度增加。
+熱帶雨林之破壞，森林面積減少。
+人口增加及其附帶的畜牧業發達所導致之CO2排放量的增加，約可與能源節約或燃料轉換所降低之CO2排放量相抵消。
+能源結構之轉變。
+
+### 京都議定書
+
+為解決溫室氣體所造成的氣候變化，重點包括:
+
+1. 減量期程與目標值: 工業國將人為排放之六種溫室氣體換算為二氧化碳總量，與1990年相較，平均削減值5.2%。減量期程為2008-2012年，並以此5年平均值為準。
+2. 六種溫室氣體中，CO2、CH4、N2O(氧化亞氮)管制基準年為1990年，而HFCs(氟氯碳化物)、PFCs(全氟碳化物)與六氟化硫SF6為1995年。
+3. 碳排放交易制度: 允許締約國彼此間進行排放交易。
+4. 森林吸收溫室氣體之功能予以考量: 1990年以後所進行之植林及森林採伐之二氧化碳吸收或排放之淨值，可包括於削減量之內。
+5. 聯合執行機制:容許工業國家為各自的減排目標合作。
+6. 成立清潔發展機制: 由工業國對開發中國家提供技術及財務協助，進行溫氣氣體減量計劃，所削減之數量由雙方共享。
+
+---
+
+### 哥本哈根會議
+
+2009年於哥本哈根舉行，決定2012-2017年全球減排協議。會前提出幾項因溫室氣體所導致的氣候變遷問題指標:
+
+1. 海平面上升: IPCC(聯合國政府氣候變遷問題小組)指出，自1961-1990年期間，海平面上升速度為1.8mm/年，但自1991年以來，上升速度為3.1mm/年;預計到2100年，海平面將較目前上升18-59公分。
+2. 海洋酸化: 海洋吸收越多CO2，海水酸度就越高，影響珊瑚、微生物和貝類動物，會嚴重影響生態多樣性和漁業。
+3. 北極冰量: Greenland自2000年迄今已流失1.5兆噸的水，造成海平面上升0.75mm。
+4. 南極暖化:過去50年南極溫度上升2.5 °C，是全球的6倍。
+5. 冰河面積縮小。
+6. 冰凍層融化導致北西伯利亞多個湖泊沼氣排放量大幅度上升(沼氣主要成分為CH4，其全球暖化潛勢為CO2的23倍)。
+7. 四季轉移: 部份鳥類和魚類因氣溫上升而改變棲息地。
+8. 降雨量改變: 1900-2005年間，南北美洲東部、歐洲北部及中北亞的降雨/降雪量明顯增加;非洲南部和部份南亞的降雨/降雪量則減少。
+
+哥本哈根會議最後決議
+
+1. 並未能確定各國的減排目標。
+2. 保持全球平均溫度較工業化時代的升幅不超過2 °C，長期目標設定為1.5 °C以內。
+3. 發達國家在2010-2012年間提供300億美元用於協助發展中國家應對氣候變化，如使用再生能源、保護森林、適應氣候災難等。
+   
+因應措施
+
+1. 削減CO2的排放量
+   1. 將含碳量較高的化石燃料轉換成含碳量較低的石化燃料。
+   2. 推廣使用乾淨能源，如太陽能、風力、海水溫差發電、核能發電等。
+   3. 對於汽車、家電用品、照明設備設定能源消耗的標準，亦即提高能源使用效率
+2. 改善產業結構 – “二高、二低、二大”:
+   1. 二高: 高附加價值，高科技。
+   2. 二低: 低污染，低能源密集。
+   3. 二大: 產業關聯效果大，市場發展潛力大。
+3. 節約能源，提高能源使用效率，減少能源生產過程及電力傳輸所發生之損耗。
+4. 發展低碳經濟及再生能源。
+5. 造林工作: 估計每公頃森林平均每年可吸收37公噸的二氧化碳，另可防止土壤侵蝕，減少土石流或季節性水患發生機率。
+
+---
+
+### 氟氯碳化物破壞臭氧層之機制
+
+氟氯碳化物是非常安定的化學物質，不容易分解，一旦被釋放出來後，會上升至平流層中，而臭氧層主要即存在於平流層中。
+上升至25公里左右的氟氯碳化物因紫外線(UV)的照射，行光分解反應，釋出具有破壞力的氯原子。
+氯原子的反應性非常高，它先與臭氧反應生成氧化氯(ClO)，氧化氯再和氧原子反應，而放出破壞臭氧的氯原子。
+
+\[\ce{O3 ->[UV] O2 + O}\]
+
+\[\ce{O2 + O -> O3}\]
+
+\[\ce{Cl +O3 -> ClO +O2}\]
+
+\[\ce{ClO +O -> Cl +O2}\]
+
+
+## 氣體中污染物濃度之測定
+
+微粒物質之測定
+採用高流量採樣器(High-Volume Sampler)測定，其操作原理如同一過濾器，以24小時抽取2000 m3的空氣通過濾紙，隨著時間增加濾紙上顆粒物隨之增加，其所測得的微粒平均濃度稱為總懸浮微粒濃度(TSP):
+
+
+\[\ce{TSP} = \frac{（濾紙過濾前後之重量差）}{平均空氣流量\times 過濾時間}\]
+
+
+### SO2 濃度之測定
+
+紫外光螢光法 -利用波長介於190 nm～230 nm之紫外光來激發二氧化硫分子，再量測其降回基態時所發出之350 nm螢光強度，以測定空氣中二氧化硫的濃度。
+
+### NOx濃度之量測
+
+化學發光法 - NOx中的NO與O3反應時會產生許多激發態的NO2，而後因輻射能量之放射而降至基態(Ground State)。其化學反應為
+
+\[\ce{NO +O3 -> NO2 +O2}\]
+
+\[\ce{NO +O3 -> NO2^{*} +O2}\]
+
+\[\ce{NO2^{*} -> hv +NO2}\]
+
+---
+
+NO2總量的5~10%是由第二個反應生成的，輻射能量hv之強度可由光電放大器(Photomultiplier)測得，輻射之強度與氣體樣品中最初之NO濃度成正比。若樣品中含NO及NO2，則在將氣體導入化學螢光反應室之前，先經一受熱的不鏽鋼，將NO2轉化成NO，反應如下
+
+
+
+接著再與O3於反應室中反應，測得總NOx濃度(A)。另外再準備一個樣品，不經過不鏽鋼管而測得NO濃度(B)，A減B之值即為氣體樣品中NO2的量。
+
+
+
+---
+
+NO2總量的5~10%是由第二個反應生成的，輻射能量hv之強度可由光電放大器(Photomultiplier)測得，輻射之強度與氣體樣品中最初之NO濃度成正比。若樣品中含NO及NO2，則在將氣體導入化學螢光反應室之前，先經一受熱的不鏽鋼，將NO2轉化成NO，反應如下
+
+
+
+接著再與O3於反應室中反應，測得總NOx濃度(A)。另外再準備一個樣品，不經過不鏽鋼管而測得NO濃度(B)，A減B之值即為氣體樣品中NO2的量。
+
+
+---
+
+### CO濃度之測定
+
+非分散性紅外線分析器(Nondispersive Infrared Analyzer) – 由於CO會吸收某特定波長的紅外線，故可利用此特性測定其濃度。
+
+偵測器含有兩個槽室(Chamber)，將氣體樣品打入其中一室，另兩室則充滿惰性氣體(如N2)。此時分別以紅外線照射此兩室，因為CO會吸收部分能量，故通過參考槽的紅外線能量較高；通過兩槽室的紅外線再由兩個都填充CO的偵測器接收，圖(Next slide)左邊偵測器中之CO受熱較多故膨脹較大，因而推動兩偵測器間之隔膜，隔膜移動程度可轉換成電訊傳出再紀錄於記錄器上，因此可連續測定樣品種CO的濃度。
+
+
+---
+
+### 碳氫化合物之測定
+
+火焰式離子化法(Flame Ionization) – 於火焰離子檢測器(FID)內，氣體樣品注入於空氣或氧氣中燃燒的氫氣火焰中，如圖所示。火焰位於電極之間，兩電極間有幾百伏特之電位差，當氫氣單獨燃燒時，只形成少數的離子，但若碳氫化合物之樣品氣體注入氫氣時，火焰中即形成離子並游離至正極，所產生的直流電訊號(DC signal)與形成的離子數成正比，形成的離子數又與火焰中之碳原子數成正比。
+
+FID只能測得碳氫化合物之總量，但不能區分碳氫化合物之各種不同成分，若欲檢測碳氫化合物成分時，可使用氣體層析儀 **(Gas Chromotography, GC)**
+
+

@@ -1,0 +1,196 @@
+# W03_0308
+
+
+Scale and Complexity of Air Pollution– Introduction
+Air pollution exists at all scales, from personal to global.
+Ambient air pollution scales may be further subdivided into local, urban, regional, continental, and global.
+The spheres of influence of the air pollutants themselves range from molecular (e.g. gases and nanoparticles) to planetary (e.g. dispersion of greenhouse gases throughout the troposphere).
+The spatial extent of the local scale is a radius of up to about 5 km on the earth’s surface. The urban scale extends the radius to about 50 km. The regional scale radius is from 50 to 500 km. Continental scales are from 500 to several 1000 km in any direction, but is often the direction of the winds aloft, since this the route traversed by the pollutant. The global scale extends worldwide.
+
+
+ ---   
+
+- Environmental engineering has a slightly different perspective of fate.
+
+- Engineers employ remediation reactions, such as thermal and mechanical separation processes, as well as abiotic chemical reactions, such as precipitation and hydrolysis, as well as biological processes, such as microbial metabolic biochemical reactions, to break down toxic substances into simpler, less toxic compounds.
+
+- The same processes and reactions that occur in the ambient environment mentioned in the previous paragraph are used by engineers for the treatment and control processes that usually fall under the category of environmental engineering.
+
+- Engineers have simply changed the scale from large environmental compartments like air masses and lakes to smaller reactors, such as pollutant collection and treatment devices
+
+ ---  
+
+- Recall that a fluid is a collective term that includes all liquids and gases.
+
+- A liquid is matter that is composed of molecules that move freely among themselves without separating from each other.
+
+- A gas is matter composed of molecules that move freely and are infinitely able to occupy the space with which they are contained at a constant temperature.
+
+- A fluid is a substance that will deform continuously upon the application of a shear stress; i.e. a stress in which the material on one side of a surface pushes on the material on the other side of the surface with a force parallel to the surface.
+
+ ---  
+
+
+- Fluids(流體) are generally divided into two types: *ideal* and *real*.
+
+- The ideal has zero viscosity and, thus, no resistance to shear (explained below).
+
+- An ideal fluid is incompressible and flows with uniform velocity distributions.
+
+- It also has no friction between moving layers and no turbulence (i.e. eddy currents).
+
+- On the contrary, a real fluid has finite viscosity, has nonuniform velocity distributions, is compressible, and experiences friction and turbulence.
+
+- Real fluids are further subdivided according to their viscosities.
+
+- A Newtonian fluid is one that has a constant viscosity at all shear rates at a constant temperature and pressure. Water and most solvents are Newtonian fluids.
+
+- However, environmental engineers are confronted with non-Newtonian fluids, i.e. those with viscosities not constant at all shear rates. Sites contaminated with drilling fluids and oils have large quantities of non-Newtonian fluids onsite.
+
+ ---  
+
+
+- One of the concepts of the particle is a theoretical point that has mass and location, but no geometric extension.
+
+- Particle can be observed as it moves within the fluid as a representation of where that portion of the fluid is going and at what velocity.
+
+- Another spatial and thermodynamic concept is the control volume, which is an arbitrary region in space that is defined by boundaries.
+
+- The control volume’s boundaries may be either stationary or moving.
+
+- The control volume is a means of applying the first law of thermodynamics, i.e. conservation of mass and energy.
+
+- The amount of mass or energy entering a control volume must equal the amount exiting the control volume plus what remains in the control volume.
+
+- The control volume is useful in measuring and modelling the amount of an air pollutant entering, remaining, and exiting a parcel of air, water, soil, or even a cell or parcel of tissue in an organism
+
+
+ ---  
+
+
+- Contaminant transport requires motion. This highlights the need of understanding the spatial context and complexity of not only the air pollutant, but of the fluid behavior.
+
+- The forces acting on a fluid may be body forces or surface forces. 
+
+- The former are forces that act on every particle within the fluid, occurring without actually making physical contact, such as gravitational force. The latter are forces that are applied directly to the fluid’s surface by physical contact.
+
+- Stress represents the total force per unit area acting on a fluid at any point within the fluid volume. So, stress at any point P is
+
+- 
+
+Where, 
+
+ ---  
+
+
+
+
+- Fluid properties are characteristics of the fluid that are used to predict how the fluid will react when subjected to applied forces.
+
+- If a fluid is considered to be infinitely divisible, that is, it is made up of many molecules that are constantly in motion and colliding with one another, this fluid is in continuum.
+
+- Assuming that a fluid is a continuum allows for the fluid’s properties to be functions of position and time.
+
+- Fluid properties are important at every scale of air pollution.
+
+
+ ---  
+
+Fluid properties must be considered at the cellular scale, e.g. flow through cell membranes.
+Such fluid properties can be represented by two fields. The density field is represented by:
+\[\rho = \rho(x,y,z,t)\]
+
+Where 
+
+<!-- 
+$$
+\begin{aligned}
+ AR(p): Y_i &= c + \epsilon_i + \phi_i Y_{i-1} \dots \\
+ Y_{i} &= c + \phi_i Y_{i-1} \dots
+\end{aligned}
+$$ -->
+
+
+\begin{align}
+a_1 &= \beta_0 (\#eq:three) \\
+b_1 &= \beta_1 \\
+c_1 &= \beta_2 \\
+d_1 &= \beta_3
+\end{align}
+
+
+
+
+
+
+The other fluid field is the velocity field:
+
+ --- 
+
+臭氧，能夠和光發生反應，
+
+臭氧層是指地球大氣層的平流層中臭氧濃度相對較高的部分，主要作用是吸收短波紫外線。
+
+臭氧在平流層能夠對我們產生保護作用 。
+但是臭氧在對流層就會對環境、人類健康產生不好的影響。
+
+> 所謂空氣污染的概念，就是人類所界定的，在一定的條件之下會對環境、人產生危害的物質。
+
+
+NO2與O3之關係
+理論上O3之濃度為NO2起始濃度的函數，10 ppm的NO2，大約會有2.7 ppm之O3產生。
+但事實上，NO2濃度通常不大於10 ppm，而O3濃度可大於2.7ppm，甚至經常可達到50 ppm。
+某些相關機制使NO氧化成NO2而不消耗O3，使得O3逐漸累積。
+
+
+
+## 光化學烟霧
+
+光化學煙霧中刺激物之形成
+醛的形成
+
+
+醛類對眼睛具刺激性。
+過氧硝酸乙醯酯(PAN, Peroxyl Acetyl Nitrate)的形成
+
+PBN (Peroxyl Benzoyl Nitrite)
+
+
+
+其對眼睛之刺激較PAN強100倍。
+酸霧形成
+此外SO2經過波長2900到4000Å可見光作用下，也可發生光化學反應而形成SO3。
+
+光化學煙霧之污染過程
+
+
+
+### Photochemical smog 
+
+First identified in Los Angeles in 1944.
+ 
+Although several other kinds of smog occur, photochemical smog (or Los Angeles-type smog) is a yellow-brown haze produced by the reaction of sunlight with exhaust from automobiles and power plants that burn coal. 
+
+Ozone, nitrogen dioxide, and other volatile organic compounds that make up this smog irritate eyes and nasal passages. 
+Particularly dangerous to people who have heart disease, asthma, or other respiratory illnesses, and to anyone who exercises or does manual labor outdoors when smog is heavy.
+
+
+有顏色，很嚴重，但不代表沒有顏色就不嚴重
+
+區域性的臭氧的問題
+
+要結合公衛、流病和觀測的方法、長期的分析
+
+
+
+
+
+
+
+
+
+
+
+
+PAN為強烈眼睛刺激物，並能傷害植物
+

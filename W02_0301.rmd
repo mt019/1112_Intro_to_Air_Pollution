@@ -49,6 +49,7 @@ Further this helps us to find the probabilities of events ei and gi for two inde
 \(P(e_i and g_i) = P(e_i)P(g_i)\)
 
 ---
+
 For example, a company record book indicates that a waste site has 10 unlabelled buried chemical drums. However, the drums were originally colour coded according to the vapor pressures (P) of the contents:
 five drums that contain a low vapor pressure (P0 = 10-6 kPa) substance (Plow), two drums that contain a medium vapor pressure (P0 = 10-4 kPa) substance (Pmed), and three drums that contain a very high vapor pressure (P0 = 10-1 kPa) substance (Pvh). 
 To remove the Plow and Pmed drums before calling in special equip teams for the Plow drums that, if ruptured, would release the contents into the air more rapidly.
@@ -115,7 +116,6 @@ This comparison is known as a relative risk (RR), which is calculated as
 
 RR for air pollutants is often stated as a ratio, particularly as a standard mortality ratio or a standard morbidity ratio (both abbreviated to “SMR”):
 
-                                                                                                           (4.8)
 where, D = number of deaths for standardized mortality rates or number of diseases for standardized morbidity rates.
 
 For example, if 15 out of 10,000 workers who are exposed to air polluted with a metallic compound have died of a type of lung cancer that occurs at a rate of 15 per million, the SMR for this hypothetical cohort of exposed workers would be 15(104)-1 / 15 (106) -1 = 102.
