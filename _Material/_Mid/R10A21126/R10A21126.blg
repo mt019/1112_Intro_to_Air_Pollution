@@ -1,0 +1,17 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[1] Config.pm:309> INFO - Logfile is 'R10A21126.blg'
+[147] biber-MSWIN32:340> INFO - === 
+[199] Biber.pm:418> INFO - Reading 'R10A21126.bcf'
+[371] Biber.pm:978> INFO - Found 11 citekeys in bib section 0
+[394] Biber.pm:4401> INFO - Processing section 0
+[413] Biber.pm:4592> INFO - Looking for bibtex file 'R10A21126.bib' for section 0
+[476] bibtex.pm:1713> INFO - LaTeX decoding ...
+[524] bibtex.pm:1518> INFO - Found BibTeX data source 'R10A21126.bib'
+[616] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[616] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[616] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[616] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[628] bbl.pm:654> INFO - Writing 'R10A21126.bbl' with encoding 'UTF-8'
+[633] bbl.pm:757> INFO - Output to R10A21126.bbl
+[634] Biber.pm:130> WARN - legacy year field 'Tue, 04/23/2019 - 09:13' in entry 'UN2019' is not an integer - this will probably not sort properly.
+[634] Biber.pm:132> INFO - WARNINGS: 1

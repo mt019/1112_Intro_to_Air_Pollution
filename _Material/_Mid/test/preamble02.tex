@@ -1,0 +1,59 @@
+\documentclass[]{article}
+
+\makeatletter
+\if@twocolumn
+  \PassOptionsToPackage{switch}{lineno}
+\else
+\fi
+\makeatother
+
+% amsmath,
+\usepackage{amsfonts,amsbsy,amssymb,tabulary,graphicx,times,caption,fancyhdr}
+
+% \usepackage[utf8]{inputenc}
+\usepackage[paperheight=10in,paperwidth=6.5in,margin=2cm,headsep=.5cm,top=2.5cm,headheight=1cm]{geometry}
+
+\renewenvironment{abstract}
+  {\vspace*{-1pc}\trivlist\item[]\leftskip\oupIndent\hrulefill\par\vskip4pt\noindent\textbf{\abstractname}\mbox{\null}\\\relax}
+  {\par\noindent\hrulefill\endtrivlist} 
+
+\linespread{1.13}
+\date{}
+
+\captionsetup[figure]{labelfont=sc,skip=1.4pt,aboveskip=1pc}
+% \captionsetup[table]{labelfont=sc,skip=1.4pt,labelsep=newline}
+
+\makeatletter
+\def\oupIndent{1pt}
+\def\author#1{\gdef\@author{\hskip-\dimexpr(\tabcolsep)\hskip\oupIndent\parbox{\dimexpr\textwidth-\oupIndent}{\centering\bfseries#1}}}
+\def\title#1{\gdef\@title{\centering\bfseries\ifx\@articleType\@empty\else\@articleType\\\fi#1}}
+\let\@articleType\@empty
+\def\articletype#1{\gdef\@articleType{{\normalfont\itshape#1}}}
+
+\fancypagestyle{headings}{
+  \fancyhf{}
+  \fancyhead[C]{\@title}
+  \fancyhead[R]{\thepage}
+}
+\pagestyle{headings}
+
+%%%Following additional macros are required to function some functions which are not available in the class used.
+\usepackage{url,multirow,morefloats,floatflt,cancel,tfrupee}
+% \usepackage[hyphens]{url}
+\usepackage{hyperref} 
+
+\AtBeginDocument{\@ifpackageloaded{textcomp}{}{\usepackage{textcomp}}}
+
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{pifont}
+\usepackage[nointegrals]{wasysym}
+\usepackage{enumitem}
+
+\urlstyle{rm}
+
+%%%For Table column width calculation.
+\def\mcWidth#1{\csname TY@F#1\endcsname+\tabcolsep}
+
+%%Hacking center and right align for table
+\def\cAlignHack{\rightskip\@flushglue\leftskip\@flushglue

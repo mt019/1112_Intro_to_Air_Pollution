@@ -1,0 +1,77 @@
+\documentclass[12pt, twoside]{article}
+\usepackage{geometry}
+\geometry{a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{natbib}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks   = true,
+  citecolor    = blue,
+  urlcolor     = blue,
+  linkcolor    = blue
+}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[CE]{\textsc{Author Name}}
+\fancyhead[CO]{\textsc{Title of Article}}
+\renewcommand{\headrulewidth}{0.4pt}
+\setlength{\headheight}{14pt}
+\setlist[itemize]{noitemsep, topsep=0pt}
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titleformat{\subsection}{\large\scshape\raggedright}{}{0em}{}
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\begin{document}
+
+\title{\textbf{\LARGE Title of Article}}
+\author{Author Name}
+\date{\today}
+\maketitle
+
+\thispagestyle{empty}
+
+\begin{abstract}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices, lectus ac convallis posuere, urna ipsum fringilla mi, at dignissim turpis augue sed elit. Nullam commodo ante ac malesuada semper. Sed sit amet blandit ipsum, non malesuada mauris. Maecenas ac augue ut risus posuere facilisis sed a odio. Quisque sit amet odio id nulla tincidunt aliquet at non nisl. Duis vulputate tellus quis mauris euismod euismod. Integer hendrerit auctor arcu eget consectetur. Nulla facilisi. Nullam semper felis a ipsum bibendum, ut mattis neque aliquam.
+\end{abstract}
+
+\section{Introduction}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices, lectus ac convallis posuere, urna ipsum fringilla mi, at dignissim turpis augue sed elit. Nullam commodo ante ac malesuada semper. Sed sit amet blandit ipsum, non malesuada mauris. Maecenas ac augue ut risus posuere facilisis sed a odio. Quisque sit amet odio id nulla tincidunt aliquet at non nisl. Duis vulputate tellus quis mauris euismod euismod. Integer hendrerit auctor arcu eget consectetur. Nulla facilisi
+
+\section{Methodology}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices, lectus ac convallis posuere, urna ipsum fringilla mi, at dignissim turpis augue sed elit. Nullam commodo ante ac malesuada semper. Sed sit amet blandit ipsum, non malesuada mauris. Maecenas ac augue ut risus posuere facilisis sed a odio. Quisque sit amet odio id nulla tincidunt aliquet at non nisl. Duis vulputate tellus quis mauris euismod euismod. Integer hendrerit auctor arcu eget consectetur. Nulla facilisi.
+
+\section{Results and Discussion}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices, lectus ac convallis posuere, urna ipsum fringilla mi, at dignissim turpis augue sed elit. Nullam commodo ante ac malesuada semper. Sed sit amet blandit ipsum, non malesuada mauris. Maecenas ac augue ut risus posuere facilisis sed a odio. Quisque sit amet odio id nulla tincidunt aliquet at non nisl. Duis vulputate tellus quis mauris euismod euismod. Integer hendrerit auctor arcu eget consectetur. Nulla facilisi.
+
+\subsection{Subsection title}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices, lectus ac convallis posuere, urna ipsum fringilla mi, at dignissim turpis augue sed elit. Nullam commodo ante ac malesuada semper. Sed sit amet blandit ipsum, non malesuada mauris. Maecenas ac augue ut risus posuere facilisis sed a odio. Quisque sit amet odio id nulla tincidunt aliquet at non nisl. Duis vulputate tellus quis mauris euismod euismod. Integer hendrerit auctor arcu eget consectetur. Nulla facilisi.
+
+\begin{itemize}
+\item Item 1
+\item Item 2
+\item Item 3
+\end{itemize}
+
+\section{Conclusions}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices, lectus ac convallis posuere, urna ipsum fringilla mi, at dignissim turpis augue sed elit. Nullam commodo ante ac malesuada semper. Sed sit amet blandit ipsum, non malesuada mauris. Maecenas ac augue ut risus posuere facilisis sed a odio. Quisque sit amet odio id nulla tincidunt aliquet at non nisl. Duis vulputate tellus quis mauris euismod euismod. Integer hendrerit auctor arcu eget consectetur. Nulla facilisi.
+
+\section{Future remark}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices, lectus ac convallis posuere, urna ipsum fringilla mi, at dignissim turpis augue sed elit. Nullam commodo ante ac malesuada semper. Sed sit amet blandit ipsum, non malesuada mauris. Maecenas ac augue ut risus posuere facilisis sed a odio. Quisque sit amet odio id nulla tincidunt aliquet at non nisl. Duis vulputate tellus quis mauris euismod euismod. Integer hendrerit auctor arcu eget consectetur. Nulla facilisi.
+
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\end{document}

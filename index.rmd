@@ -9,7 +9,6 @@ link-citations: true
 description: "111-2 學期空氣污染概論課堂筆記。采用R的bookdown制作，输出格式为bookdown::gitbook."
 ---
 
-
 # Preface {-}
 
 空氣污染概論
@@ -29,6 +28,11 @@ Homework: 40%.
 Midterm and final exams: 60%.  
 
 
+期中：習題
+
+期末：席老師可能會考試，不然就是專題報告
+
+
 ## Outline
 
 - Foundations of Air Pollution
@@ -42,4 +46,6 @@ Midterm and final exams: 60%.
 - Addressing Air Pollution
 
 - The Future for Air Pollution Science and Engineering
+
+
 

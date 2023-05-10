@@ -1,0 +1,78 @@
+# W09_0419
+
+
+pm2.5 24hr avg 15 mg (來自某一期間，對於環境流行病學的研究，WHO的建議是：10)
+
+空氣品質科學、空氣品質工程
+
+critical thinking
+
+## air pollution control
+
+Difinition
+
+c.f.
+
+$\require{mhchem}$
+$\ce{CO2}$
+
+pollution 
+
+- 對人體健康
+- 超過環境的含容力
+- 
+
+contamination
+
+-  毒性、致癌性、可突變性
+-  soil-contamination
+   -  重金屬
+   -  PCB
+   -  環境荷爾蒙至性狀突變
+
+
+
+
+## control 有限制（engenieering 可施作的範圍）
+
+針對source
+
+- natural （volcanos要控制，有難度）
+- anthvogogenic （coal combustion）
+
+清净燃料也會產生污染物
+
+流程
+
+control device 只是其中一項，末端管理，end-of-pipe control device
+
+
+source control（pollution prevention） 永遠優於 末端治理
+
+- 能源利用效率的提升也是污染預防的一種手段
+  - 燃燒器的有效運作
+  - 工程師的工作是 mass 和 energy 的 balance
+
+- 烟囪！高烟囪效力
+  - 烟囪本身就是一種控制設備
+  - 環境法規，高度標準
+  - 擴散！
+    - 環境大自然的自我療愈，自我療傷，環境含容能力
+    - 降低濃度
+- 烟囪不可能無止儘地上升
+  - 經濟考慮
+  - 推力、熱
+  - 違反環境正義
+
+## feul switch
+
+nature gas會有什麽嚴重的問題
+
+清净能源的限制、隱憂、長期造成的環境衝擊
+
+綠能如果不是真正的綠能，對於環境的衝擊可能要到幾十年之後才看得到。
+
+## 整個程序關停！
+
+要評估正面負面影響。
+

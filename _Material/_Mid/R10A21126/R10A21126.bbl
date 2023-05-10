@@ -1,0 +1,289 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{WorldBank}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{howpublished}{https://www.worldbank.org/en/news/ feature/2022/09/01/what-you-need-to-know-about-climate-change-and-air-pollution}
+      \field{journaltitle}{World Bank}
+      \field{langid}{english}
+      \field{shorttitle}{Climate Explainer}
+      \field{title}{Climate Explainer: Climate Change and Air Pollution}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{WHO}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.who.int/health-topics/air-pollution}
+      \field{langid}{english}
+      \field{title}{WHO Air Pollution}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{WHOAirOutdoor}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health}
+      \field{langid}{english}
+      \field{title}{WHO Ambient (Outdoor) Air Pollution}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{WorldBankClimateChange}{misc}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://climateknowledgeportal.worldbank.org/}
+      \field{langid}{english}
+      \field{title}{World Bank Climate Change Knowledge Portal}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{EPA2012}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://oaout.epa.gov.tw/law/LawContent.aspx?id=GL007322}
+      \field{title}{Common System of Competent Regulations of the Environmental Protection Administration of the Executive Yuan-Regulations-Greenhouse Gases Such as Carbon Dioxide, Methane, Nitrous Oxide, Hydrofluorocarbons, Sulfur Hexafluoride and Perfluorocarbons Are Air Pollutants}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{Warrilow2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=917c9bd742749c8e1bcfc949a75c6dd7}{%
+           family={Warrilow},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{917c9bd742749c8e1bcfc949a75c6dd7}
+      \strng{fullhash}{917c9bd742749c8e1bcfc949a75c6dd7}
+      \strng{bibnamehash}{917c9bd742749c8e1bcfc949a75c6dd7}
+      \strng{authorbibnamehash}{917c9bd742749c8e1bcfc949a75c6dd7}
+      \strng{authornamehash}{917c9bd742749c8e1bcfc949a75c6dd7}
+      \strng{authorfullhash}{917c9bd742749c8e1bcfc949a75c6dd7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1477-8696}
+      \field{journaltitle}{Weather}
+      \field{langid}{english}
+      \field{number}{10}
+      \field{title}{Air Pollution and Climate Change}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{76}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{354\bibrangedash 354}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/wea.3922
+      \endverb
+    \endentry
+    \entry{USEPA2015}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6ca8fdb1b09bdd308bbf98bf661d31a2}{%
+           family={US\bibnamedelima EPA},
+           familyi={U\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={{\relax OAR}},
+           giveni={_\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ca8fdb1b09bdd308bbf98bf661d31a2}
+      \strng{fullhash}{6ca8fdb1b09bdd308bbf98bf661d31a2}
+      \strng{bibnamehash}{6ca8fdb1b09bdd308bbf98bf661d31a2}
+      \strng{authorbibnamehash}{6ca8fdb1b09bdd308bbf98bf661d31a2}
+      \strng{authornamehash}{6ca8fdb1b09bdd308bbf98bf661d31a2}
+      \strng{authorfullhash}{6ca8fdb1b09bdd308bbf98bf661d31a2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Sources of Greenhouse Gas Emissions}
+      \field{type}{Overviews and Factsheets}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{OurWorld2020}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://ourworldindata.org/emissions-by-sector}
+      \field{title}{Emissions by Sector - Our World in Data}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{Althor2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8ce89d287be359a463fc0bc8a203fbce}{%
+           family={Althor},
+           familyi={A\bibinitperiod},
+           given={Glenn},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8530b68cdac8fb368310f60d286f2a89}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={James\bibnamedelimb E.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f63e08ec783205e7ffa5a9e1b1306b38}{%
+           family={Fuller},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{335db369dc22d0fac034ba1277f0c80f}
+      \strng{fullhash}{335db369dc22d0fac034ba1277f0c80f}
+      \strng{bibnamehash}{335db369dc22d0fac034ba1277f0c80f}
+      \strng{authorbibnamehash}{335db369dc22d0fac034ba1277f0c80f}
+      \strng{authornamehash}{335db369dc22d0fac034ba1277f0c80f}
+      \strng{authorfullhash}{335db369dc22d0fac034ba1277f0c80f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Global Mismatch between Greenhouse Gas Emissions and the Burden of Climate Change}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{6}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{20281}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/srep20281
+      \endverb
+    \endentry
+    \entry{Li2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ed0acbc7a224f71117164619ee8fa0ba}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Mingwei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=96b0d86b1a75f061fffaa178de59e002}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Da},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ca5f534c0e59b10e75a17a63e6047ab0}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chiao-Ting},
+           giveni={C\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=f34520cf37112596ac72793668cbc863}{%
+           family={Selin},
+           familyi={S\bibinitperiod},
+           given={Noelle\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=1e02391a7951ad260409574c09e4878f}{%
+           family={Karplus},
+           familyi={K\bibinitperiod},
+           given={Valerie\bibnamedelima J.},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{e71a0c290964175b7dbd5d7ab16970b2}
+      \strng{fullhash}{863e500988ce09ad41eea1c7190fb91f}
+      \strng{bibnamehash}{e71a0c290964175b7dbd5d7ab16970b2}
+      \strng{authorbibnamehash}{e71a0c290964175b7dbd5d7ab16970b2}
+      \strng{authornamehash}{e71a0c290964175b7dbd5d7ab16970b2}
+      \strng{authorfullhash}{863e500988ce09ad41eea1c7190fb91f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1748-9326}
+      \field{journaltitle}{Environmental Research Letters}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{8}
+      \field{title}{Co-Benefits of China's Climate Policy for Air Quality and Human Health in China and Transboundary Regions in 2030}
+      \field{urlday}{12}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{084006}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1748-9326/ab26ca
+      \endverb
+    \endentry
+    \entry{UN2019}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{chapter}{News and Stories}
+      \field{howpublished}{http://www.unep.org/news-and-stories/story/air-pollution-and-climate-change-two-sides-same-coin}
+      \field{journaltitle}{UNEP}
+      \field{langid}{english}
+      \field{shorttitle}{Air Pollution and Climate Change}
+      \field{title}{Air Pollution and Climate Change: Two Sides of the Same Coin}
+      \field{urlday}{8}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{Tue, 04/23/2019 - 09:13}
+      \field{urldateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
